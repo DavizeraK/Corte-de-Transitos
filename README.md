@@ -1,4 +1,4 @@
-#Cortes de Trânsitos Planetários
+Cortes de Trânsitos Planetários
 
 Trabalho de Iniciação Científica na área de computação para astronomia, como foco em análise e tratamento de dados astronômicos em busca de sinais de exoplanetas nas curvas de luz do telescópio Kepler.
 
